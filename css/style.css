@@ -59,6 +59,7 @@ li a:hover {
     position: absolute;
     top: 230px;
     left: 330px;
+    border: 1px solid green;
 }
 
 #main-logo {
@@ -173,4 +174,15 @@ li a:hover {
     margin-top: -22px;
     font-weight: 300;
     font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
+#particles-js-1 {
+    background-color: black;
+    height: 300px;
+    width: 100%;
+}
+
+#three-circle {
+    position: absolute;
+    top: 1550px;
 }
